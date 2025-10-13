@@ -29,7 +29,7 @@ Sou apaixonado por construir aplicações web e mobile com interfaces elegantes 
 - **Pass.in** — app de gestão de participantes em eventos (Next.js + MySQL + Prisma)  
 - **Thaba** — e-commerce full stack com Node.js / Express / MongoDB  
 - Projetos de Branding e identidade visual para clientes diversos  
-- Atuação como Database Engineer & UI/UX Designer no Grupo Mesquita  
+- Atuação como Software Developer & UI/UX Designer no Grupo Mesquita  
 
 ---
 
