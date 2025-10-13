@@ -1,46 +1,48 @@
-# 👋 Olá, eu sou Gelson Matavela
+# 👋 Hi, I'm Gelson Matavela  
 
 **Fullstack Developer & UI/UX Designer**
 
-Sou apaixonado por construir aplicações web e mobile com interfaces elegantes e funcionais, combinando backend robusto com experiência do usuário.
+I’m passionate about building web and mobile applications with elegant and functional interfaces, combining a robust backend with a great user experience.
 
 ---
 
-## 🏷️ Linguagens & Ferramentas
+## 🏷️ Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,prisma,postgres,mysql,figma&theme=light)](https://skillicons.dev)  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 [![Gelson’s GitHub stats](https://github-readme-stats.vercel.app/api?username=gelsonmatavela&show_icons=true&theme=radical)](https://github.com/gelsonmatavela)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonmatavela&layout=compact&theme=radical)](https://github.com/gelsonmatavela)  
 
 ---
 
-## 💼 Sobre mim & Projetos em destaque
+## 💼 About Me & Featured Projects
 
-**Stack principal:** Node.js, Next.js, React, React Native, Prisma ORM, MySQL, PostgreSQL  
-**Design & UI/UX:** Figma, Adobe XD, Adobe Illustrator, prototipagem  
+**Main Stack:** Node.js, Next.js, React, React Native, Prisma ORM, MySQL, PostgreSQL  
+**Design & UI/UX:** Figma, Adobe XD, Adobe Illustrator, Prototyping  
 
-### 🔍 Projetos
+### 🔍 Projects
 
-- **Pass.in** — app de gestão de participantes em eventos (Next.js + MySQL + Prisma)  
-- **Thaba** — e-commerce full stack com Node.js / Express / MongoDB  
-- Projetos de Branding e identidade visual para clientes diversos  
-- Atuação como Software Developer & UI/UX Designer no Grupo Mesquita  
+- **Pass.in** — participant management app for events (Next.js + MySQL + Prisma)  
+- **Thaba** — full stack e-commerce with Node.js / Express / MongoDB  
+- Branding and visual identity projects for various clients  
+- Working as **Software Developer & UI/UX Designer** at **Grupo Mesquita**  
 
 ---
 
-## 📬 Meus canais & contato
+## 📬 My Channels & Contact
 
 - **LinkedIn**: [gelsonmatavela](https://mz.linkedin.com/in/gelsonmatavela/pt)  
-- **Email**: gelsonmatavela@gmail.com  
+- **Email**: [gelsonmatavela@gmail.com](mailto:gelsonmatavela@gmail.com)  
 - **Instagram**: [@gelson_matavela](https://www.instagram.com/gelson_matavela/)  
 
-## ⚡ Extras & curiosidades
+---
 
-- Gosto de unir estética e código — não basta funcionar bem, tem que encantar o usuário  
-- Sempre em busca de aprender novas tecnologias, padrões e melhores práticas  
-- Este perfil README será atualizado conforme meus projetos e skills evoluam  
+## ⚡ Extras & Fun Facts
+
+- I love combining aesthetics and code — it’s not enough for it to work well; it should also delight the user  
+- Always learning new technologies, patterns, and best practices  
+- This README profile will be updated as my projects and skills evolve  
