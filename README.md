@@ -29,14 +29,13 @@ Fullstack Developer at [Grupo Mesquita](https://mesquitagroup.co.mz) — custom 
 
 **Activity**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gelsonmatavela&theme=transparent&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)](https://git.io/streak-stats)
-
----
-
-**Ranking**
-
-[![committers.top — Mozambique](https://user-badge.committers.top/mozambique/gelsonmatavela.svg)](https://committers.top/mozambique)
-[![committers.top — Beira](https://user-badge.committers.top/mozambique_beira/gelsonmatavela.svg)](https://committers.top/mozambique_beira)
+<table><tr>
+<td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gelsonmatavela&theme=transparent&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" /></a></td>
+<td valign="bottom">
+<a href="https://committers.top/mozambique"><img src="https://user-badge.committers.top/mozambique/gelsonmatavela.svg" alt="Mozambique ranking" /></a><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=gelsonmatavela&style=flat-square&color=6366f1&label=profile+views" alt="Profile views" />
+</td>
+</tr></table>
 
 ---
 
