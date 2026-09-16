@@ -1,7 +1,7 @@
 # Gelson Matavela
 
 Fullstack Developer · UI/UX Designer · Graphic Designer  
-Based in Mozambique — building web and mobile products end-to-end.
+Based in Mozambique - building web and mobile products end-to-end.
 
 ---
 
@@ -23,7 +23,7 @@ TypeScript · Node.js · Next.js · React Native · PostgreSQL · Prisma · Dock
 
 **Work**
 
-Fullstack Developer at [Grupo Mesquita](https://mesquitagroup.co.mz) — custom digital solutions across web, mobile, and brand.
+Fullstack Developer at [Grupo Mesquita](https://mesquitagroup.co.mz) - custom digital solutions across web, mobile, and brand.
 
 ---
 
