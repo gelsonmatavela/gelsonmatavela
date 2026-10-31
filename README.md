@@ -18,7 +18,7 @@ TypeScript · Node.js · Next.js · React Native · PostgreSQL · Prisma · Dock
 | [dzidza.site](https://dzidza.site) | E-learning platform |
 | [noticeme.site](https://noticeme.site) | News & content platform |
 | [peleveflowers.com](https://peleveflowers.com) | E-commerce · floristry & gifts |
-| [[removesignaturebackground.site](https://removesignaturebackground.site)| Remove background from signature images & generate QrCode, all for free |
+| [removesignaturebackground.site](https://removesignaturebackground.site)| Remove background from signature images & generate QrCode, all for free |
 
 ---
 
